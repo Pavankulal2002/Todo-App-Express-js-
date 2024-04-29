@@ -1,0 +1,10 @@
+npm init -y
+
+npm install express body-parser mongoose
+
+
+npm install mysql mysql2 ######for mysql connection
+npm install pg  ########for postgresql connection
+npm install cors 
+
+npm install sequelize
